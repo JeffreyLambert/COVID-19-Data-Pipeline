@@ -24,7 +24,7 @@ etl.write_csv(OUTPUT_PATH)
 
 
 ## Motivation & Details
-was inspired by work tracking COVID outbreaks near major Charles Schwab corporate locations and is intended
+This project was inspired by work tracking COVID outbreaks near major Charles Schwab corporate locations and is intended
 to be the data source I use as I learn to host web applications with Amazon Web Services.  
 
 In March of 2020 I was asked to help our executive leadership forecast and understand the spread of COVID-19 near our 
